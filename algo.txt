@@ -1,0 +1,3 @@
+1. Decide what kind of pizza we want to order
+2. Ordering the pizza
+3. Pick up the pizza
